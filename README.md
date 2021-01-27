@@ -1,3 +1,3 @@
 # image-repo-two
 
-![](./test/.test/image2.png)
+![](./test/test/image2.png)
